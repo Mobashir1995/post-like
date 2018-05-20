@@ -3,8 +3,8 @@
 Plugin Name: Like Post
 Description: Post Likes Plugin
 Version:     1.0
-Author:      BaseOne
-Author URI:  https://Baseonesolutions.com/
+Author:      Mobashir
+Author URI:  #
 Text Domain: like-post
 */
 ?>
