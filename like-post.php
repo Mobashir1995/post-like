@@ -9,7 +9,7 @@ Text Domain: like-post
 */
 ?>
 <?php
-
+ 
 //Create Essential Tables On Install Plugin
 function lp_create_table(){
 	global $wpdb;
