@@ -10,7 +10,6 @@ Text Domain: like-post
 ?>
 <?php
 
-//test commit
 //Create Essential Tables On Install Plugin
 function lp_create_table(){
 	global $wpdb;
