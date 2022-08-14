@@ -4,7 +4,7 @@ Plugin Name: Like Post
 Description: Post Likes Plugin
 Version:     1.0
 Author:      Mobashir
-Author URI:  #
+Author URI:  https://plugin-devs.com
 Text Domain: like-post
 */
 ?>
